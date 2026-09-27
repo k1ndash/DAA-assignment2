@@ -1,9 +1,0 @@
-operation,n,avg_ns,comparisons,sorted
-insert,100,55275,206,true
-extract,100,140762,863,true
-insert,1000,87552,2326,true
-extract,1000,279502,14996,true
-insert,10000,658479,22753,true
-extract,10000,2078060,216531,true
-insert,100000,3332566,227857,true
-extract,100000,24917625,2831426,true
